@@ -39,24 +39,19 @@ The results are awesome. We can see pretty accurate face landmark detections.
 
 **Input**
 
-![Example input 1](images/example_01.jpg)
+![Example input 1](images/1.jpg)
 
 **Output**
 
-![Example output 1](images/output_01.jpg)
+![Example output 1](images/output_1.jpg)
 
 **Input**
 
-![Example input 2](images/example_02.jpg)
+![Example input 2](images/2.jpg)
 
 **Output**
 
-![Example output 2](images/output_02.jpg)
-
-
-
-## **The limitations**
-None
+![Example output 2](images/output_2.jpg)
 
 
   [here]: <http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2>
